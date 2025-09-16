@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100" align="right">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="90" align="right">
 
 # 👋 Hi, I'm Kevin Paul!
 
@@ -7,48 +7,70 @@
 ---
 
 ## 🌟 About Me
-- 🎓 **Final Year B.Tech CSE (AI & ML)** @ VIT Chennai
-- 🧠 Building intelligent systems:
-  - GANs for image synthesis
-  - ML-driven trading bots
-  - Football management games powered by RL
-- 💡 Passionate about solving real-world problems with data and AI
-- 🕹️ Gamer | Football fan | Open-source advocate
+- 🎓 Final Year B.Tech CSE (AI & ML) @ VIT Chennai
+- 🧠 Exploring intelligent systems:
+  - GANs for digit generation
+  - ML-powered trading bots
+  - Football management simulations using Reinforcement Learning
+- 💡 Driven to solve real-world problems with code, data, and creativity
+- 🕹️ Footballer | Gamer | Open-source explorer
 
 ---
 
-## 🚀 Featured Projects
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFA116&center=true&vCenter=true&width=500&lines=AI%2FML+Enthusiast;Game+Dev+%7C+Student+at+VIT+Chennai;Building+Cool+Stuff+With+Code" alt="Typing SVG">
+
+---
+
+## 🚀 Noteworthy Projects
 | Project          | Description                                                             |
 |------------------|-------------------------------------------------------------------------|
-| GANwithMNIST     | Generate handwritten digits with GANs [Python, Deep Learning]            |
-| TradingModel     | ML-driven trading signals & portfolio management                        |
-| Footy            | Simulate football leagues with RL and team management                   |
-| Football-academy-game | Build your 🏟️ dream academy, nurture talent, transfer negotiations     |
-| The-Iris-Code    | End-to-end ML: EDA, model comparison, deployment (Flask + Docker)       |
+| GANwithMNIST     | Generative Adversarial Network for handwritten digits                   |
+| TradingModel     | ML-powered algorithmic trading, portfolio management                    |
+| Footy            | RL-driven football league simulator                                     |
+| Football-academy-game | Manage your own academy, transfer market & team development          |
+| The-Iris-Code    | End-to-end machine learning pipeline, deployment (Flask + Docker)       |
 
 ---
 
 ## 🛠️ Tech Stack  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-![Kevin Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=x-Kevin-Paul-x&show_icons=true&theme=dark)
+## 🏆 Cool Widgets
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=x-Kevin-Paul-x&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=x-Kevin-Paul-x)](https://git.io/streak-stats)
 
 ---
 
 ## ⚡ Fun Facts
-- I believe football is the best real-time strategy game ever invented
-- My GAN generates new worlds—sometimes, just digits 😄
-- Builder at heart, disruptor in code
+- Football is the greatest real-time strategy game ever made
+- My GAN creates whole new worlds—sometimes just digits 😉
+- I build for fun and impact
 
 ---
+
+## 📫 Connect With Me
+<a href="https://www.linkedin.com/in/kevin-paul-42801a278/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+</a>
+<a href="https://kevin-paul.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-00C896?logo=internet-archive&style=for-the-badge" />
+</a>
+<a href="mailto:kevinpaul7h@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge" />
+</a>
+
+---
+
+> *“Code is the closest thing we have to magic.”*
+
 
 ## 📫 Connect With Me
 - [LinkedIn]([https://www.linkedin.com/in/kevin-paul-42801a278/])
