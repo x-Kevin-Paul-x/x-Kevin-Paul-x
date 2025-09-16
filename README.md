@@ -5,14 +5,13 @@
 </p>
 
 
-## 🌟 About Me
-- 🎓 Final Year B.Tech CSE (AI & ML) @ VIT Chennai
-- 🧠 Exploring intelligent systems:
+- Final Year B.Tech CSE (AI & ML) @ VIT Chennai
+- Exploring intelligent systems:
   - GANs for digit generation
   - ML-powered trading bots
   - Football management simulations using Reinforcement Learning
-- 💡 Driven to solve real-world problems with code, data, and creativity
-- 🕹️ Footballer | Gamer | Open-source explorer
+- Driven to solve real-world problems with code, data, and creativity
+- Footballer | Gamer | Open-source explorer
 
 ---
 
