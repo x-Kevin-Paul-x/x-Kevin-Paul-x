@@ -51,9 +51,9 @@
 ---
 
 ## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/kevin-paul-31887476)
-- [Portfolio](https://www.kevinpaul.xyz/)
-- kevin.paul@example.com
+- [LinkedIn]([https://www.linkedin.com/in/kevin-paul-42801a278/])
+- [Portfolio]([https://kevin-paul.netlify.app/])
+- kevinpaul7h@gmail.com
 
 ---
 
