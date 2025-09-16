@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="90" align="right">
 
-<p align='left'>
+<p align='center'>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=FFA116&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kevin+Paul;AI%2FML+enthusiast+%7C+Game+Dev;B.Tech+CSE+(AI%26ML)+@+VIT+Chennai" alt="Typing SVG">
 </p>
 
@@ -60,15 +60,9 @@
 
 ---
 
-> *“Code is the closest thing we have to magic.”*
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=x-Kevin-Paul-x)](https://git.io/streak-stats)
 
-## 📫 Connect With Me
-- [LinkedIn]([https://www.linkedin.com/in/kevin-paul-42801a278/])
-- [Portfolio]([https://kevin-paul.netlify.app/])
-- kevinpaul7h@gmail.com
-
----
-
 > *“Code is the closest thing we have to magic.”*
+
+
 
