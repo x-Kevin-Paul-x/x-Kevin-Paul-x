@@ -36,11 +36,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-## 🏆 Cool Widgets
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=x-Kevin-Paul-x&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=x-Kevin-Paul-x)](https://git.io/streak-stats)
 
 ---
 
@@ -65,7 +61,7 @@
 ---
 
 > *“Code is the closest thing we have to magic.”*
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=x-Kevin-Paul-x)](https://git.io/streak-stats)
 
 ## 📫 Connect With Me
 - [LinkedIn]([https://www.linkedin.com/in/kevin-paul-42801a278/])
