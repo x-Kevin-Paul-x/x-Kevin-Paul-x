@@ -1,9 +1,8 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="90" align="right">
 
-# 👋 Hi, I'm Kevin Paul!
-
-🚀 **AI/ML enthusiast | Game Developer | B.Tech CSE (AI&ML) @ VIT Chennai**
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=FFA116&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kevin+Paul;AI%2FML+enthusiast+%7C+Game+Dev;B.Tech+CSE+(AI%26ML)+@+VIT+Chennai" alt="Typing SVG">
+</p>
 ---
 
 ## 🌟 About Me
@@ -14,10 +13,6 @@
   - Football management simulations using Reinforcement Learning
 - 💡 Driven to solve real-world problems with code, data, and creativity
 - 🕹️ Footballer | Gamer | Open-source explorer
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFA116&center=true&vCenter=true&width=500&lines=AI%2FML+Enthusiast;Game+Dev+%7C+Student+at+VIT+Chennai;Building+Cool+Stuff+With+Code" alt="Typing SVG">
 
 ---
 
