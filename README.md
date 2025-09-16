@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="90" align="right">
 
-<p>
+<p align='left'>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=FFA116&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kevin+Paul;AI%2FML+enthusiast+%7C+Game+Dev;B.Tech+CSE+(AI%26ML)+@+VIT+Chennai" alt="Typing SVG">
 </p>
 
