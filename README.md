@@ -2,7 +2,7 @@
 
 # Yo, I'm Kevin 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=MSc+Artificial+Intelligence+%40+Bristol;AI+%2B+Software+Engineering;Building+things+that+started+with+%22this+should+be+easy%22;Probably+thinking+about+football+%E2%9A%BD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=1000&height=45&lines=MSc+Artificial+Intelligence+%40+University+of+Bristol;AI+%2B+Software+Engineering;Building+things+that+started+with+%22this+should+be+easy%22;Probably+thinking+about+football+%E2%9A%BD)](https://git.io/typing-svg)
 
 ### AI / ML · Python · Software Engineering · Full-Stack Development
 
